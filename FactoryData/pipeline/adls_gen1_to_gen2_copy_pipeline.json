@@ -1,0 +1,8 @@
+{
+	"name": "adls_gen1_to_gen2_copy_pipeline",
+	"properties": {
+		"description": "This is a test pipeline to copy file form ADLS Gen1 account to ADLS Gen2",
+		"concurrency": 1,
+		"annotations": []
+	}
+}
