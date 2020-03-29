@@ -1,0 +1,13 @@
+{
+	"name": "AzureDataLakeStore1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDataLakeStore",
+		"typeProperties": {
+			"dataLakeStoreUri": "https://dlsgen11982.azuredatalakestore.net/webhdfs/v1",
+			"tenant": "9ca75128-a244-4596-877b-f24828e476e2",
+			"subscriptionId": "c75d3b60-e49f-48c5-8d91-9c4015c78aa4",
+			"resourceGroupName": "wesco_dm_training"
+		}
+	}
+}
